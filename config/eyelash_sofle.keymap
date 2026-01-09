@@ -60,7 +60,7 @@
         };
 
         esc {
-            bindings = <&kt ESCAPE>;
+            bindings = <&kp ESCAPE>;
             key-positions = <30 31>;
         };
 
@@ -76,7 +76,7 @@
         };
 
         daom {
-            bindings = <&kt DOUBLE_QUOTES>;
+            bindings = <&kp DOUBLE_QUOTES>;
             key-positions = <35 36>;
         };
     };
