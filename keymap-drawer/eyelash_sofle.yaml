@@ -199,10 +199,10 @@ combos:
 - p: [14, 28, 40]
   k: '&soft_off'
 - p: [30, 31]
-  k: {t: '$$mdi:keyboard-esc$$', h: toggle}
+  k: $$mdi:keyboard-esc$$
 - p: [35, 34]
   k: {t: '$$mdi:keyboard-return$$', type: enter}
 - p: [29, 30]
   k: {t: '$$mdi:backspace$$', type: backspace}
 - p: [35, 36]
-  k: {t: '"', h: toggle}
+  k: '"'
