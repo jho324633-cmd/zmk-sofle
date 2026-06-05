@@ -36,7 +36,7 @@ layers:
   - $$mdi:arrow-left-bold$$
   - H
   - {t: J, s: '$$mdi:apple-keyboard-shift$$'}
-  - {t: RGUI, h: K}
+  - {t: K, h: RIGHT WIN}
   - {t: L, s: '$$mdi:apple-keyboard-option$$'}
   - {t: ;, h: '$$mdi:apple-keyboard-shift$$', s: ':'}
   - {t: '''', s: '"'}
